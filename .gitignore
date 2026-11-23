@@ -1,4 +1,15 @@
-expenses.json
-expense_tracker.log
+# Python virtual environment
+.venv/
+
+# Python cache files
 __pycache__/
+*.pyc
+
+# Database files
+*.db
+
+# Mac system files
 .DS_Store
+
+# Uploaded files
+uploads/
